@@ -1,0 +1,9 @@
+.container {
+    max-width: 1200px;
+    display: grid;
+    grid-gap: $gutter;
+
+    @media (min-width: 700px) {
+        grid-template-columns: 7fr 12fr;
+    }
+}
