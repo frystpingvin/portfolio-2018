@@ -28,11 +28,12 @@ h3 {
 }
 
 li {
-    margin-bottom: 0.7rem;
+    margin-bottom: 1rem;
 }
 
 a {
     color: $dark-grey;
+    font-style: italic;
 
     &:hover {
         color: lighten($dark-grey, 20%);
@@ -45,6 +46,10 @@ img {
 
 .text-secondary {
     color: $grey;
+}
+
+.text-italic {
+    font-style: italic;
 }
 
 article img {
