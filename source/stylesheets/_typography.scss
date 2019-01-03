@@ -1,30 +1,24 @@
-h1,
-h2,
-h3 {
-    font-family: neue-haas-grotesk-display, sans-serif;
-    font-size: 3.5rem;
-    line-height: 1.125;
-    margin: 0 0 2.25rem 0;
+p {
+    font-size: 1em;
+    line-height: 1.425;
+    margin: 0 0 1.1rem 0;
 }
 
+h1,
+h2,
+h3,
 h4,
 h5,
 h6 {
+    font-size: 1.125em;
     font-weight: 700;
     margin: 0 0 0.25rem 0;
 }
 
-h4,
-h5,
-h6,
-p {
-    line-height: 1.425;
-    font-size: 1.75rem;
-}
-
-p {
-    font-size: 1.5rem;
-    margin: 0 0 1.1rem 0;
+h1,
+h2,
+h3 {
+    margin: 0 0 2.25rem 0;
 }
 
 .list-unstyled {

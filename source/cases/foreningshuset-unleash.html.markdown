@@ -14,6 +14,10 @@ I also executed the design system into a SCSS framework with corresponding docum
 
 An example of components and pattern from Unleash.
 
+<img src="/images/unleash/documentation-screenshot.png">
+
+A screenshot from the "kitchen sink" part of the documentation that showcases all the available components.
+
 <img src="/images/unleash/devices.png">
 
 Example usages. Images blurred because of copyright.

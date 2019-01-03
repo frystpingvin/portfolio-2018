@@ -4,6 +4,31 @@
     grid-gap: $gutter;
 
     @media (min-width: 700px) {
-        grid-template-columns: 7fr 12fr;
+        grid-template-columns: 12fr 7fr;
+        grid-template-rows: auto;
+        grid-template-areas:
+            "header header"
+            "main sidebar"
+            "wide wide";
     }
+}
+
+.sidebar {
+    grid-area: sidebar;
+}
+  
+.main {
+    grid-area: main;
+}
+
+.wide {
+    grid-area: wide;
+}
+  
+.header {
+    grid-area: header;
+}
+
+.mb-gutter {
+    margin-bottom: $gutter;
 }

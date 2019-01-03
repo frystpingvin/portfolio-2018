@@ -1,6 +1,13 @@
-<div class="container">
-  <div>
-    <h4>Earlier projects</h4>
+<aside class="sidebar">
+  <h4>About</h4>
+  <p>Designer and front-end developer. I have several years of experience working with designing and programming for the web and in recent years I have broadened my design work by exploring research, experience design and facilitating innovation.</p>
+  <p>Currently I am studying the Design Lead programme at Hyper Island.</p>
+  <p><%= link_to 'Questions? Send me an email.', 'mailto:hej@samuellie.se' %></p>
+</aside>
+
+<section class="content">
+  <div class="mb-gutter">
+    <h4>Cases</h4>
     <ul class="list-unstyled">
       <% blog.articles.each do |article| %>
         <li>
@@ -12,17 +19,32 @@
     </ul>
   </div>
 
-  <div>
-    <h4>About</h4>
-    <p>Designer and front-end developer. I have 5 years of experience working with designing and programming for the web and in recent years I have broadened my design work by exploring branding and experience design.</p>
-    <p>Currently I am studying the Design Lead programme at Hyper Island. <%= link_to 'Questions? Send me an email.', 'mailto:hej@samuellie.se' %></p>
-  </div>
-  <div>
-    <h6>Links</h6>
+  <div class="mb-gutter">
+    <h6>Other work and links</h6>
     <ul class="list-unstyled">
-      <li><%= link_to 'LinkedIn', 'https://www.linkedin.com/in/samuel-lie-769a29a1/' %></li>
-      <li><%= link_to 'GitHub', 'https://github.com/frystpingvin' %></li>
-      <li><%= link_to 'Instagram', 'https://www.instagram.com/samuellie/' %></li>
+      <li>
+        <%= link_to 'ECPAT Challenge', 'http://ecpatchallenge.se/' %>
+        <br>
+        <span class="text-secondary">UX + Front-end development</span>
+        <p>Together with <%= link_to 'Novium Design', 'https://www.noviumdesign.se/' %> I helped ECPAT create a digital campaign and associated website to increase awareness about exploitation of children.</p>
+      </li>
+      <li>
+        <%= link_to 'Hubbster', 'https://www.hubbster.com/' %>
+        <br>
+        <span class="text-secondary">UI design + Front-end development</span>
+        <p>Between 2016 and 2018 I helped Hubbster with design and front-end development of their web platform that encourages bottom-up strategy activation within organizations.</p>
+      </li>
+      <li>
+        Medon
+        <br>
+        <p>Between 2015 and 2017 I worked with Medon in Oslo helping them increase their capabilities within design and web development. During my time their I designed and developed a bike pickup app for use in the skiing and adventure resort Trysil, as well as helping the brewery Ringnes with content strategy for moving over to their new international website platform and CMS provided by Carlsberg.</p>
+      </li>
+      <li>
+        <%= link_to 'Färgsätt', 'https://frystpingvin.github.io/color-list/' %>
+        <br>
+        <span class="text-secondary">Personal project</span>
+        <p>A simple list of my favorite colors from earlier projects.</p>
+      </li>
     </ul>
   </div>
-</div>
+</section>
