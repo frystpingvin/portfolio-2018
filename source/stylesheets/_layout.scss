@@ -28,6 +28,22 @@
     grid-area: header;
 }
 
-.mb-gutter {
+.mt {
+    margin-top: $gutter;
+}
+
+.mt-2 {
+    margin-top: $gutter*2;
+}
+
+.mb {
     margin-bottom: $gutter;
+}
+
+.mb-2 {
+    margin-bottom: $gutter*2;
+}
+
+figure {
+    margin-bottom: $gutter*2;
 }

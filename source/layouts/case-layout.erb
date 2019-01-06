@@ -19,7 +19,10 @@
       </h1>
     </header>
     <aside class="sidebar">
-      <span class="text-secondary"><%= current_page.data.category %></span>
+      <p class="text-secondary"><%= current_page.data.category %></p>
+      <% if current_page.data.other_info %>
+        <p class="text-secondary"><%= current_page.data.other_info %></p>
+      <% end %>
     </aside>
     <article class="content">
       <%= yield %>

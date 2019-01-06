@@ -25,10 +25,10 @@ h3 {
     list-style-type: none;
     padding: 0;
     margin: 0 0 1rem 0;
-}
 
-li {
-    margin-bottom: 1rem;
+    li {
+        margin-bottom: 1rem;
+    }
 }
 
 a {
@@ -52,6 +52,8 @@ img {
     font-style: italic;
 }
 
-article img {
-    margin-top: $gutter*2;
+figcaption {
+    font-size: 0.75em;
+    color: $grey;
+    text-align: center;
 }
