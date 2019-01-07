@@ -45,5 +45,9 @@
 }
 
 figure {
-    margin-bottom: $gutter*2;
+    margin: 0 0 $gutter*2 0;
+}
+
+iframe {
+    max-width: 100%;
 }
