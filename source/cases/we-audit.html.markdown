@@ -2,18 +2,20 @@
 
 title: We Audit
 date: 2018-11-10 17:30 UTC
-category: Research + Brand strategy
+category: Brand strategy
 other_info: "My role: Project lead and researcher"
 
 ---
 
+<img src="/images/we-audit/logo.png">
+
 #### 1. Background
-The auditing agency We Audit came to Hyper Island to get a brand makeover. They wanted a brand strategy and identity that represented them more. We Audit is leveraging todays digital technology to innovate within the auditing sector, and they want to communicate that they are revolutionary in their market and not afraid to stand out.
+The auditing agency We Audit came to Hyper Island to get a brand makeover. They wanted a brand strategy and identity that represented them better. We Audit is leveraging todays digital technology to innovate within the auditing sector, and they want to communicate that they are revolutionary in their market and not afraid to stand out.
 
 #### 2. Research
 We started the project by discussing and de-briefing with our client. After that we went out in the field to get a better understanding of
 
-* We Audit and it's internal culture
+* We Audit and its internal culture
 * The auditing market
 * Their competitors
 * Their customers
@@ -22,7 +24,7 @@ We looked into trend reports from auditing organizations, interviewed and sent o
 
 From the interviews and questionnaires sent out to We Audit's employees, we understood that the company had a friendly and informal attitude - something that differs from the stereotype that auditors and accountants are stiff people.
 
-This was internal culture was something that something that the client noticed and appreciated, **56% said that they believe a friendly and human attitude is important when selecting an auditing agency**. But their clients also said that it is important that the friendly attitude is balanced with professionalism - the majority of the respondants get an auditor to make sure that there books are correct and to get good advice on how to run their business.
+This was internal culture was something that something that their customers noticed and appreciated, **56% said that they believe a friendly and human attitude is important when selecting an auditing agency**. But their customers also said that it is important that the friendly attitude is balanced with professionalism - the majority of the respondants get an auditor to make sure that there books are correct and to get good advice on how to run their business.
 
 #### 3. Ideation
 To finish up the research and start ideating we invited the client to an ideation workshop. We showed some of the research findings, challenged our assumptions by letting the client agree or disagree with some assumption statements and let the client position themselves on a brand positioning map based on some of our research findings.
@@ -48,7 +50,7 @@ From the core values we defined the design principles **Bold, Flexible, Happy an
 
 <img src="/images/we-audit/layered-personalities.png" class="mb-2">
 
-<img src="/images/we-audit/touchpoints2.png">
+<img src="/images/we-audit/touchpoints.png">
 
 To stand out in the market, the secondary personality is dialed up. To let the customer focus on the quality and contents of a report, the secondary personality is dialed down. By using different brand elements you can balance the personalities to meet touchpoint expectations. For example, if a user is going to enter card information, the brand should be more serious and toned down. In that case you would avoid adding the secondary personality.
 
@@ -56,4 +58,12 @@ Together with the new brand strategy we delivered an updated logo, new colors, t
 
 <img src="/images/we-audit/logo.png">
 
+<img src="/images/we-audit/youngserif.png">
+
+<img src="/images/we-audit/avenir.gif">
+
+<img src="/images/we-audit/photography.png">
+
 <img src="/images/we-audit/cards.png">
+
+<img src="/images/we-audit/website.jpg">
