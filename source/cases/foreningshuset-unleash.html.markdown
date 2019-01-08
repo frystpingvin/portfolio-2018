@@ -18,16 +18,16 @@ The solution was a design system consisting of components, patterns and guidelin
 I also executed the design system into a SCSS framework with corresponding documentation for use by developers.
 
 <figure>
-    <img src="/images/unleash/components-example.png">
+    <img src="/images/unleash/components-example.png" alt="Unleash components">
     <figcaption>An example of components and pattern from Unleash.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/unleash/documentation-screenshot.png">
+    <img src="/images/unleash/documentation-screenshot.png" alt="Unleash documentation screenshot">
     <figcaption>A screenshot from the "kitchen sink" part of the documentation that showcases all the available components.</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/unleash/devices.png">
+    <img src="/images/unleash/devices.png" alt="Example usages">
     <figcaption>Example usages. Images blurred because of copyright.</figcaption>
 </figure>

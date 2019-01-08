@@ -7,7 +7,7 @@ image: "/images/electrolux/logo.jpg"
 
 ---
 
-<img src="/images/electrolux/logo.jpg">
+<img src="/images/electrolux/logo.jpg" alt="Electrolux logo">
 
 #### Background
 The Swedish home appliance manufacturer Electrolux came to Hyper Island to get new ideas on how their users lives can be improved by connected accessories, services and partnerships in 2026. We we're asked to focus on experiences around food, but not the cooking process itself.
@@ -16,7 +16,7 @@ The Swedish home appliance manufacturer Electrolux came to Hyper Island to get n
 We started out the project by doing both quantitative and qualitative research. We created several journay maps of users current experience around food, both in the home but also their experiences of planning and shopping groceries.
 
 <figure>
-    <img src="/images/electrolux/journey.jpg">
+    <img src="/images/electrolux/journey.jpg" alt="Customer journey">
     <figcaption>A journey map we created together with one of the interviewees</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ To finish up our research and kick off ideation we invited the Electrolux design
 Some of the ideas include using image recognition to read and calculate expiry dates of the groceries you have at home and machine learning identifying your shopping habits and sharing this data with potential business partners.
 
 <figure>
-    <img src="/images/electrolux/workshop.jpg">
+    <img src="/images/electrolux/workshop.jpg" alt="Workshop with Electrolux">
     <figcaption>Ideation workshop with the Electrolux design team</figcaption>
 </figure>
 
@@ -58,8 +58,8 @@ Iterating from this feedback, we realized that we could **remove the painpoint o
 The second prototype was a way to indentify food in your fridge that will expire soon with image recognition. This info was then shared by lighting up the product to inform the user that this should be cooked or eaten soon. We tried this prototype on user and realized that the static light wasn't noticable enough, it should be pulsating to communicate more clearly.
 
 <div style="float: left; width: 100%;" class="mb-2">
-    <img style="float: left; width: 48%;" src="/images/electrolux/confusion.gif">
-    <img style="float: right; width: 48%;" src="/images/electrolux/clear.gif">
+    <img style="float: left; width: 48%;" src="/images/electrolux/confusion.gif" alt="Test user that wasn't able to locate the food in the fridge">
+    <img style="float: right; width: 48%;" src="/images/electrolux/clear.gif" alt="Test user that was able to locate the food in the fridge">
 </div>
 
 #### 4. Delivery

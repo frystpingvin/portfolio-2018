@@ -8,7 +8,7 @@ image: "/images/we-audit/logo.png"
 
 ---
 
-<img src="/images/we-audit/logo.png">
+<img src="/images/we-audit/logo.png" alt="We Audit logo">
 
 #### 1. Background
 The auditing agency We Audit came to Hyper Island to get a brand makeover. They wanted a brand strategy and identity that represented them better. We Audit is leveraging todays digital technology to innovate within the auditing sector, and they want to communicate that they are revolutionary in their market and not afraid to stand out.
@@ -30,8 +30,8 @@ This was internal culture was something that something that their customers noti
 #### 3. Ideation
 To finish up the research and start ideating we invited the client to an ideation workshop. We showed some of the research findings, challenged our assumptions by letting the client agree or disagree with some assumption statements and let the client position themselves on a brand positioning map based on some of our research findings.
 
-<img src="/images/we-audit/workshop-plan.jpg">
-<img src="/images/we-audit/workshop.jpg">
+<img src="/images/we-audit/workshop-plan.jpg" alt="Plan for the workshop">
+<img src="/images/we-audit/workshop.jpg" alt="Workshop with We Audit">
 
 #### 4. Delivered strategy and visuals
 The first part of our deliveries was the internal core values we defined for We Audit
@@ -43,28 +43,31 @@ The first part of our deliveries was the internal core values we defined for We 
 
 These were used as a basis for our design principles and later also implemented in the employee guidelines.
 
-<img src="/images/we-audit/core-values.png">
+<img src="/images/we-audit/core-values.png" alt="Defined core values">
 
 From the workshop we learned that **We Audit needs to balance being fun, informal and serious**. Something that can be conflicting. To solve this we created a layered personality strategy where the primary personality is based on giving a serious impression and the secondary personality stands out by adding a layer of being fun and informal. Depending on the touchpoint, we then dial up or down the secondary personality.
 
 From the core values we defined the design principles **Bold, Flexible, Happy and Minimal**.
 
-<img src="/images/we-audit/layered-personalities.png" class="mb-2">
+<img src="/images/we-audit/layered-personalities.png" class="mb-2" alt="Layered personalities diagram">
 
-<img src="/images/we-audit/touchpoints.png">
+<figure>
+    <img src="/images/we-audit/touchpoints.png" alt="Example usage of layered personalitites based on touchpoints">
+    <figcaption>Example usage of layered personalitites based on touchpoints.</figcaption>
+</figure>
 
 To stand out in the market, the secondary personality is dialed up. To let the customer focus on the quality and contents of a report, the secondary personality is dialed down. By using different brand elements you can balance the personalities to meet touchpoint expectations. For example, if a user is going to enter card information, the brand should be more serious and toned down. In that case you would avoid adding the secondary personality.
 
 Together with the new brand strategy we delivered an updated logo, new colors, typography guidelines, patterns and photography guidelines. 
 
-<img src="/images/we-audit/logo.png">
+<img src="/images/we-audit/logo.png" alt="We Audit logo">
 
-<img src="/images/we-audit/youngserif.png">
+<img src="/images/we-audit/youngserif.png" alt="Young Serif font">
 
-<img src="/images/we-audit/avenir.gif">
+<img src="/images/we-audit/avenir.gif" alt="Avenir font">
 
-<img src="/images/we-audit/photography.png">
+<img src="/images/we-audit/photography.png" alt="Photography guidelines">
 
-<img src="/images/we-audit/cards.png">
+<img src="/images/we-audit/cards.png" alt="Example LinkedIn cards">
 
-<img src="/images/we-audit/website.jpg">
+<img src="/images/we-audit/website.jpg" alt="Website mockup">
