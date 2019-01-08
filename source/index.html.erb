@@ -9,9 +9,14 @@
 <section class="content">
   <div class="mb-gutter">
     <h4>Case studies</h4>
-    <ul class="list-unstyled">
+    <ul class="list-unstyled case-studies">
       <% blog.articles.each do |article| %>
         <li>
+          <% if article.data.image %>
+            <% link_to article.url do %>
+              <%= image_tag article.data.image %>
+            <% end %>
+          <% end %>
           <%= link_to article.title, article.url %>
           <br>
           <span class="text-secondary"><%= article.data.category %></span>

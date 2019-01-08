@@ -4,6 +4,7 @@ title: We Audit
 date: 2018-11-10 17:30 UTC
 category: Brand strategy
 other_info: "My role: Project lead and researcher"
+image: "/images/we-audit/logo.png"
 
 ---
 

@@ -3,6 +3,7 @@
 title: Föreningshuset Unleash
 date: 2018-11-10 17:20 UTC
 category: Design system
+image: "/images/unleash/login.png"
 
 ---
 
