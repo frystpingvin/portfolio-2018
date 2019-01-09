@@ -8,11 +8,11 @@
         "main";
 
     @media (min-width: 700px) {
-        grid-template-columns: 12fr 7fr;
+        grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: auto;
         grid-template-areas:
-            "header header"
-            "main sidebar";
+            "header header header"
+            "main main sidebar";
     }
 }
 
