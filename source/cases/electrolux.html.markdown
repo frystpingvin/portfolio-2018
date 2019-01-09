@@ -1,6 +1,6 @@
 ---
 
-title: Electrolux
+title: "Electrolux: food services in 2026"
 date: 2018-11-10 17:40 UTC
 category: User Experience
 image: "/images/electrolux/logo.jpg"
@@ -13,7 +13,7 @@ image: "/images/electrolux/logo.jpg"
 The Swedish home appliance manufacturer Electrolux came to Hyper Island to get new ideas on how their users lives can be improved by connected accessories, services and partnerships in 2026. We we're asked to focus on experiences around food, but not the cooking process itself.
 
 #### 1. Research
-We started out the project by doing both quantitative and qualitative research. We created several journay maps of users current experience around food, both in the home but also their experiences of planning and shopping groceries.
+We started out the project by doing both quantitative and qualitative research. We created several journey maps of users current experience around food, both in the home but also their experiences of planning and shopping groceries.
 
 <figure>
     <img src="/images/electrolux/journey.jpg" alt="Customer journey">
@@ -34,7 +34,7 @@ From the users we talked to, we concluded that the main painpoints in this exper
 
 On weekdays however, people saw planning and shopping as chore. They aren't very inclined to try new recipes during busy weekdays and mainly make food with easy and quick recipes that they already know in their memory. Not having full knowledge of what they have at home and when items expire also made people buy groceries - only to find out that they already have it at home.
 
-To get a better understanding of how the world can look in 2026, we participated in a workshop called [Actionable Futures Toolkit](https://futures.nordkapp.fi/) with it's creater Sami Niemelä to try to foresight the future.
+To get a better understanding of how the world can look in 2026, we participated in a workshop called [Actionable Futures Toolkit](https://futures.nordkapp.fi/) with it's creator Sami Niemelä to try to foresight the future.
 
 #### 2. Ideation
 To finish up our research and kick off ideation we invited the Electrolux design team to an ideation workshop that I facilitated. We shared some research and together ideated on solutions to solve the identified painpoints.
